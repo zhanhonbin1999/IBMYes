@@ -1,5 +1,5 @@
-name: IBM Cloud Auto Restart
-
+名称： IBM Cloud自动重启
+ 
 on:
   push:
     branches: [ master ]
