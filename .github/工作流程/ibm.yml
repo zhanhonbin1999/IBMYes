@@ -1,6 +1,6 @@
 名称：IBM Cloud自动重启 
-
-on:
+ 
+在：
   push:
     branches: [ master ]
   schedule:
